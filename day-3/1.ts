@@ -13,7 +13,7 @@ const findCommonNum = (one: number[], two: number[]): number => {
     return 0;
 }
 
-const determineLetterNumber = (str: string): number => {
+export const determineLetterNumber = (str: string): number => {
     if (str === str.toUpperCase()) {
         return str.charCodeAt(0) - 38;
     } 
