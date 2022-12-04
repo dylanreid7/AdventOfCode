@@ -1,0 +1,9 @@
+// {
+//     "compilerOptions": {
+//         "strict": false,
+//         "noImplicitAny": false,
+//     },
+//     "types": [
+//         "node"
+//     ],
+// }
